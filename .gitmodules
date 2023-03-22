@@ -1,0 +1,3 @@
+[submodule "bnuuyDrivers_micropython"]
+	path = bnuuyDrivers_micropython
+	url = https://github.com/L3pu5/bnuuyDrivers_micropython
